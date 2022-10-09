@@ -25,6 +25,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<sonar.login>sqa_c2a22ab5ae4666a89781173f68100ecae3c0524c</sonar.login>
 	</properties>
 
 	<dependencies>
